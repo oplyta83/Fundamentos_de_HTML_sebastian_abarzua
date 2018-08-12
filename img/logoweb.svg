@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg8" sodipodi:docname="logo web.svg" inkscape:version="0.92.1 r15371" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="368.138px"
+	 height="181.445px" viewBox="0 0 368.138 181.445" enable-background="new 0 0 368.138 181.445" xml:space="preserve">
+<defs>
+	
+	
+		<inkscape:perspective  id="perspective3744" inkscape:persp3d-origin="172.74291 : 335.02204 : 1" inkscape:vp_z="31.612238 : 289.4119 : 1" inkscape:vp_y="0 : -921.41702 : 0" inkscape:vp_x="313.87358 : 289.4119 : 1" sodipodi:type="inkscape:persp3d">
+		</inkscape:perspective>
+</defs>
+<sodipodi:namedview  id="base" inkscape:window-y="-8" inkscape:window-x="-8" inkscape:window-height="715" inkscape:window-width="1360" inkscape:current-layer="layer1" inkscape:document-units="mm" inkscape:pageshadow="2" inkscape:pageopacity="0.0" inkscape:window-maximized="1" pagecolor="#ffffff" inkscape:cy="914.91059" inkscape:cx="619.10392" inkscape:zoom="0.75236221" borderopacity="1.0" bordercolor="#666666" showgrid="false">
+	</sodipodi:namedview>
+<g>
+	
+		<g id="g3746" inkscape:corner7="-0.41684523 : 0.11178825 : 0.25 : 1" inkscape:corner0="0.081794363 : 0.11331007 : 0 : 1" inkscape:perspectiveID="#perspective3744" sodipodi:type="inkscape:box3d">
+		<path id="path3748" inkscape:box3dsidetype="6" sodipodi:type="inkscape:box3dside" fill="#353564" d="M359.722,43.581v-3.675
+			l-80.776-28.23v2.985L359.722,43.581z"/>
+		<path id="path3758" inkscape:box3dsidetype="11" sodipodi:type="inkscape:box3dside" fill="#E9E9FF" d="M278.946,14.661
+			L9.274,89.558v-4.771l269.671-73.111V14.661z"/>
+		<path id="path3750" inkscape:box3dsidetype="5" sodipodi:type="inkscape:box3dside" fill="#4D4D9F" d="M359.722,43.581
+			L43.509,175.316L9.274,89.558l269.671-74.897L359.722,43.581z"/>
+		<path id="path3756" inkscape:box3dsidetype="13" sodipodi:type="inkscape:box3dside" fill="#AFAFDE" d="M359.722,39.906
+			L43.509,168.5L9.274,84.787l269.671-73.111L359.722,39.906z"/>
+		<path id="path3754" inkscape:box3dsidetype="14" sodipodi:type="inkscape:box3dside" fill="#D7D7FF" d="M43.509,175.316V168.5
+			L9.274,84.787v4.771L43.509,175.316z"/>
+		<path id="path3752" inkscape:box3dsidetype="3" sodipodi:type="inkscape:box3dside" fill="#8686BF" d="M359.722,43.581
+			L43.509,175.316V168.5L359.722,39.906V43.581z"/>
+	</g>
+	<text transform="matrix(0.9204 -0.391 0.391 0.9204 43.5098 144.4766)" font-family="'Courier'" font-size="30">Sebastian Abarzua</text>
+</g>
+</svg>
